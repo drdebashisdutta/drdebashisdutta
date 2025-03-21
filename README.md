@@ -1,4 +1,5 @@
 # Dr. Debashis Dutta
+![image](https://github.com/user-attachments/assets/165b62c7-bcf5-4a7a-8e30-a2707fd7f13d)
 
 **Empowering Businesses with Advanced AI, Strategic Data Insights, and Risk Analytics Excellence**
 
