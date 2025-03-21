@@ -57,6 +57,8 @@ I’m Dr. Debashis Dutta, a global AI leader, risk strategist, and digital trans
 - Risk Management Professional (RMP) (PMI)
 - SAS Certified Base Programmer for SAS 9
 
+🔗 View All Certification: [certification](Certification](https://www.credly.com/users/debashis-dutta.47893562))
+
 ---
 
 ## 🌐 Connect with Me
