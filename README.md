@@ -1,16 +1,22 @@
 # Dr. Debashis Dutta
 
-**Empowering Businesses with Advanced AI, Strategic Data Insights, and Risk Analytics Excellence**
+**Empowering Everyone with AI | AI & Risk Analytics | Generative AI | Certified Machine Learning & AI Engineer | Certified Solution Architect (Professional) | Google Cloud | AWS | Microsoft | CDMP | DAMA | PMP | RMP | SAS**
 
 ## 👋 About Me
 
-I’m Dr. Debashis Dutta, a global AI leader, risk strategist, and digital transformation expert with over **29 years of experience** across four continents. My work bridges the worlds of **AI, Machine Learning, Risk Analytics, and Emerging Technologies**, with a mission to make innovation **inclusive, impactful, and human-centered**.
+I’m Dr. Debashis Dutta, a global AI leader, risk strategist, and digital transformation expert with over **29 years of experience** across several continents. My work bridges the worlds of **AI, Machine Learning, Risk Analytics, and Emerging Technologies**, with a mission to make innovation **inclusive, impactful, and human-centered**.
+
+## 🏆 Awards & Recognitions
+
+**Visionary Leader of the Year in Artificial Intelligence, Risk Analytics, and Machine Learning at the Future Banks Summit Saudi Arabia 2024.**
+
+**Risk Management Leader of the Year at the Middle East Banking AI & Analytics Summit 2024.**
 
 ## 🌍 Key Initiative: AI for All
 
 ### 🚀 *AI for All – Making AI Accessible to Everyone*
 
-**AI for All** is my flagship global initiative designed to **democratize AI knowledge** and ensure that everyone—regardless of background, geography, gender, or income—can harness the power of artificial intelligence.
+**AI for All** is my flagship global initiative committed to making AI knowledge accessible to everyone, empowering people from all backgrounds, locations, and walks of life to unlock the potential of artificial intelligence and create a better future.
 
 🔹 **What it offers:**
 
