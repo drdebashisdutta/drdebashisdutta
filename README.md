@@ -8,9 +8,10 @@ I’m Dr. Debashis Dutta, a global AI leader, risk strategist, and digital trans
 
 ## 🏆 Awards & Recognitions
 
-**Visionary Leader of the Year in Artificial Intelligence, Risk Analytics, and Machine Learning at the Future Banks Summit Saudi Arabia 2024.**
+- Visionary Leader of the Year – Recognized for global leadership in AI, ML & Risk
+- Risk Management Leader of the Year – Middle East Banking AI & Analytics Summit 2024
+- Featured Speaker at leading summits like DigiBank Saudi, Data 2030 MEA, and NextGen e-Governance
 
-**Risk Management Leader of the Year at the Middle East Banking AI & Analytics Summit 2024.**
 
 ## 🌍 Key Initiative: AI for All
 
@@ -39,22 +40,22 @@ I’m Dr. Debashis Dutta, a global AI leader, risk strategist, and digital trans
 
 ---
 
-## 🏆 Awards & Recognition
-
-- **Visionary Leader of the Year** – Recognized for global leadership in AI, ML & Risk  
-- **Risk Management Leader of the Year** – Middle East Banking AI & Analytics Summit 2024  
-- Featured Speaker at leading summits like **DigiBank Saudi**, **Data 2030 MEA**, and **NextGen e-Governance**
-
----
-
 ## 🎓 Certifications
 
-- Google Cloud Architect  
-- Microsoft Certified: Azure AI Engineer Associate  
-- Certified Information Systems Security Professional (CISSP)  
-- Certified Blockchain Expert  
-- PMP Certified  
-- Doctorate in Instructional Design & Technology  
+**🌩 Cloud & AI Certifications
+
+- Google Cloud Professional Machine Learning Engineer
+- AWS Certified Machine Learning – Specialty
+- Microsoft Certified Azure AI Engineer Associate
+- Google Cloud Certified Professional Cloud Architect
+- AWS Certified Solutions Architect – Professional
+
+**📊 Risk & Data Certifications
+
+- Certified Data Management Professional (CDMP) – Practitioner Level (DAMA International)
+- Project Management Professional (PMP) (PMI)
+- Risk Management Professional (RMP) (PMI)
+- SAS Certified Base Programmer for SAS 9
 
 ---
 
