@@ -2,8 +2,6 @@
 
 **Empowering Businesses with Advanced AI, Strategic Data Insights, and Risk Analytics Excellence**
 
-![Dr. Debashis Dutta]([https://drdebashisdutta.com/path-to-your-profile-image.jpg](https://drdebashisdutta.com/wp-content/uploads/2025/02/original-logo-for-website.svg))
-
 ## 👋 About Me
 
 I’m Dr. Debashis Dutta, a global AI leader, risk strategist, and digital transformation expert with over **29 years of experience** across four continents. My work bridges the worlds of **AI, Machine Learning, Risk Analytics, and Emerging Technologies**, with a mission to make innovation **inclusive, impactful, and human-centered**.
