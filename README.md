@@ -42,7 +42,7 @@ I’m Dr. Debashis Dutta, a global AI leader, risk strategist, and digital trans
 
 ## 🎓 Certifications
 
-**🌩 Cloud & AI Certifications
+**🌩 Cloud & AI Certifications**
 
 - Google Cloud Professional Machine Learning Engineer
 - AWS Certified Machine Learning – Specialty
@@ -50,7 +50,7 @@ I’m Dr. Debashis Dutta, a global AI leader, risk strategist, and digital trans
 - Google Cloud Certified Professional Cloud Architect
 - AWS Certified Solutions Architect – Professional
 
-**📊 Risk & Data Certifications
+**📊 Risk & Data Certifications**
 
 - Certified Data Management Professional (CDMP) – Practitioner Level (DAMA International)
 - Project Management Professional (PMP) (PMI)
