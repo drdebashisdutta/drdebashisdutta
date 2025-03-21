@@ -2,7 +2,7 @@
 
 **Empowering Businesses with Advanced AI, Strategic Data Insights, and Risk Analytics Excellence**
 
-![Dr. Debashis Dutta](https://drdebashisdutta.com/path-to-your-profile-image.jpg)
+![Dr. Debashis Dutta]([https://drdebashisdutta.com/path-to-your-profile-image.jpg](https://drdebashisdutta.com/wp-content/uploads/2025/02/original-logo-for-website.svg))
 
 ## 👋 About Me
 
