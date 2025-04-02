@@ -33,14 +33,14 @@ I’m Dr. Debashis Dutta, a global AI leader, Data Strategist, Leader, Risk anal
 
 ## 💼 Professional Services
 
-- **Consulting:** AI, Blockchain, Cybersecurity, Risk Modeling, Digital Strategy  
+- **Consulting:** AI, Data Governance, Blockchain, Risk Modeling, Digital Strategy  
 - **Speaking Engagements:** Keynotes, Panels, Conferences, Media Commentary  
 - **Mentorship & Training:** For governments, corporates, startups & tech talent  
 - **Workshops:** AI leadership, data storytelling, and business transformation  
 
 ---
 
-## 💼 The organisations I worked
+## 💼 The Organisations I worked with
 
 - **Saudi EXIM Bank, Kingdom of Saudi Arabia:** Advisor, Strategic Risk Management Function 
 - **Bank Aljazira, Kingdom of Saudi Arabia:** Modelling and Analytics Manager, Risk Analytics Function
