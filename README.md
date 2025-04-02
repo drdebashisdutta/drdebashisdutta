@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I’m Dr. Debashis Dutta, a global AI leader, risk strategist, and digital transformation expert with over **29 years of experience** across several continents. My work bridges the worlds of **AI, Machine Learning, Risk Analytics, and Emerging Technologies**, with a mission to make innovation **inclusive, impactful, and human-centered**.
+I’m Dr. Debashis Dutta, a global AI leader, Data Strategist, Leader, Risk analytics Specialist, and digital transformation expert with over **29 years of experience** across several continents. My work bridges the worlds of **AI, Machine Learning, Data Strategy, Risk Analytics, and Emerging Technologies**, with a mission to make innovation **inclusive, impactful, and human-centric**.
 
 ## 🏆 Awards & Recognitions
 
@@ -37,6 +37,19 @@ I’m Dr. Debashis Dutta, a global AI leader, risk strategist, and digital trans
 - **Speaking Engagements:** Keynotes, Panels, Conferences, Media Commentary  
 - **Mentorship & Training:** For governments, corporates, startups & tech talent  
 - **Workshops:** AI leadership, data storytelling, and business transformation  
+
+---
+
+## 💼 The organisations I worked
+
+- **Saudi EXIM Bank, Kingdom of Saudi Arabia:** Advisor, Strategic Risk Management Function 
+- **Bank Aljazira, Kingdom of Saudi Arabia:** Modelling and Analytics Manager, Risk Analytics Function
+- **KPMG, Kingdom of Saudi Arabia:** Associate Director, Financial Risk Management Practices 
+- **Tata Consultancy Services (TCS), India:** Consultant, Banking Practices 
+- **Qatar National Bank, Qatar:** Group Portfolio Manager, Riskfunction
+- **KPMG, Qatar:** Manager, Financial Risk Management Practices 
+- **KPMG, Bahrain:** manger, Financial Risk Management Practices 
+- **Other entities:** Different functions
 
 ---
 
