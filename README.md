@@ -44,9 +44,11 @@ I’m Dr. Debashis Dutta, a global AI leader, Data Strategist, Leader, Risk anal
 
 - **Saudi EXIM Bank, Kingdom of Saudi Arabia:** Advisor, Strategic Risk Management Function 
 - **Bank Aljazira, Kingdom of Saudi Arabia:** Modelling and Analytics Manager, Risk Analytics Function
-- **KPMG, Kingdom of Saudi Arabia:** Associate Director, Financial Risk Management Practices 
+- **KPMG, Kingdom of Saudi Arabia:** Associate Director, Financial Risk Management Practices
+- **KPMG, India:** Associate Director, Financial Risk Management Practices 
+- **EY, Dubai,UAE:** Senior Manager, Financial Services Risk Management Practices 
 - **Tata Consultancy Services (TCS), India:** Consultant, Banking Practices 
-- **Qatar National Bank, Qatar:** Group Portfolio Manager, Riskfunction
+- **Qatar National Bank, Qatar:** Group Portfolio Manager, Risk Function
 - **KPMG, Qatar:** Manager, Financial Risk Management Practices 
 - **KPMG, Bahrain:** manger, Financial Risk Management Practices 
 - **Other entities:** Different functions
