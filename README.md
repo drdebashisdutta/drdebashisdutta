@@ -1,6 +1,6 @@
 # Dr. Debashis Dutta
 
-**Empowering Everyone with AI | AI & Risk Analytics | Generative AI | Certified Machine Learning & AI Engineer | Certified Solution Architect (Professional) | Google Cloud | AWS | Microsoft | CDMP | DAMA | PMP | RMP | SAS**
+**Empowering Everyone with AI | AI & Risk Analytics | Generative AI | Certified Machine Learning & AI Engineer | Certified Solution Architect (Professional) | Google Cloud | AWS | Microsoft | NVIDIA | CDMP | DAMA | PMP | RMP | SAS**
 
 ## 👋 About Me
 
